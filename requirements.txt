@@ -36,3 +36,5 @@ trackpy
 numba
 healpy
 pytest
+metpy
+cfgrib
